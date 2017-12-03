@@ -67,3 +67,10 @@
 
 - ![Version](https://images.microbadger.com/badges/version/lonly/docker-zeppelin:0.7.2-cn.svg) ![Layers](https://images.microbadger.com/badges/image/lonly/docker-zeppelin:0.7.2-cn.svg) __0.7.2-cn__
 
+## License
+
+![License](https://img.shields.io/github/license/lonly197/docker.svg)
+
+## Contact me
+
+- Email: <lonly197@qq.com>
