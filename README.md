@@ -15,13 +15,13 @@
 
 ### Docker Alpine GNU C library (glibc)
 
-[Github](https://github.com/lonly197/docker-alpine-glibc) [Dockerhub](https://hub.docker.com/r/lonly/docker-alpine-glibc)
+> [Github](https://github.com/lonly197/docker-alpine-glibc) | [Dockerhub](https://hub.docker.com/r/lonly/docker-alpine-glibc)
 
 - ![Version](https://images.microbadger.com/badges/version/lonly/docker-alpine-glibc:2.26-r0.svg) ![Layers](https://images.microbadger.com/badges/image/lonly/docker-alpine-glibc:2.26-r0.svg) __latest = 2.26-r0__
 
 ### Docker Alpine Java
 
-[Github](https://github.com/lonly197/docker-alpine-java) [Dockerhub](https://hub.docker.com/r/lonly/docker-alpine-java)
+> [Github](https://github.com/lonly197/docker-alpine-java) | [Dockerhub](https://hub.docker.com/r/lonly/docker-alpine-java)
 
 - ![Version](https://images.microbadger.com/badges/version/lonly/docker-alpine-java:openjdk-8u131.svg) ![Layers](https://images.microbadger.com/badges/image/lonly/docker-alpine-java:openjdk-8u131.svg) __latest = openjdk-8u131__
 
@@ -31,7 +31,7 @@
 
 ### Docker Alpine Python
 
-[Github](https://github.com/lonly197/docker-alpine-python) [Dockerhub](https://hub.docker.com/r/lonly/docker-alpine-python)
+> [Github](https://github.com/lonly197/docker-alpine-python) | [Dockerhub](https://hub.docker.com/r/lonly/docker-alpine-python)
 
 - ![Version](https://images.microbadger.com/badges/version/lonly/docker-alpine-python:python3.svg) ![Layers](https://images.microbadger.com/badges/image/lonly/docker-alpine-python:python3.svg) __latest = python3__
 
@@ -41,7 +41,7 @@
 
 ### Docker Alpine R
 
-[Github](https://github.com/lonly197/docker-alpine-r) [Dockerhub](https://hub.docker.com/r/lonly/docker-alpine-r)
+> [Github](https://github.com/lonly197/docker-alpine-r) | [Dockerhub](https://hub.docker.com/r/lonly/docker-alpine-r)
 
 - ![Version](https://images.microbadger.com/badges/version/lonly/docker-alpine-r:3.4.2.svg) ![Layers](https://images.microbadger.com/badges/image/lonly/docker-alpine-r:3.4.2.svg) __latest = 3.4.2__
 
@@ -49,13 +49,13 @@
 
 ### Docker Presto
 
-[Github](https://github.com/lonly197/docker-presto) [Dockerhub](https://hub.docker.com/r/lonly/docker-presto)
+> [Github](https://github.com/lonly197/docker-presto) | [Dockerhub](https://hub.docker.com/r/lonly/docker-presto)
 
 - ![Version](https://images.microbadger.com/badges/version/lonly/docker-presto:0.189.svg) ![Layers](https://images.microbadger.com/badges/image/lonly/docker-presto:0.189.svg) __latest = 0.189__
 
 ### Docker Zeppelin
 
-[Github](https://github.com/lonly197/docker-zeppelin) [Dockerhub](https://hub.docker.com/r/lonly/docker-zeppelin)
+> [Github](https://github.com/lonly197/docker-zeppelin) | [Dockerhub](https://hub.docker.com/r/lonly/docker-zeppelin)
 
 - ![Version](https://images.microbadger.com/badges/version/lonly/docker-zeppelin:0.7.3.svg) ![Layers](https://images.microbadger.com/badges/image/lonly/docker-zeppelin:0.7.3.svg) __latest = 0.7.3__
 
