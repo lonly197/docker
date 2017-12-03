@@ -2,6 +2,15 @@
 
 > Docker images for development and production environment.
 
+                        ##         .
+                  ## ## ##        ==
+               ## ## ## ## ##    ===
+           /"""""""""""""""""\___/ ===
+      ~~~ {~~ ~~~~ ~~~ ~~~~ ~~~ ~ /  ===- ~~~
+           \______   lonly   __/
+             \    \         __/
+              \____\_______/
+
 ## Base Images
 
 ### Docker Alpine GNU C library (glibc)
