@@ -20,6 +20,10 @@
 
 - [![](https://images.microbadger.com/badges/version/lonly/docker-alpine-java:openjdk-8u131.svg)](https://microbadger.com/images/lonly/docker-alpine-java:openjdk-8u131) [![](https://images.microbadger.com/badges/image/lonly/docker-alpine-java:openjdk-8u131.svg)](https://microbadger.com/images/lonly/docker-alpine-java:openjdk-8u131) __openjdk-8u131__
 
+- [![](https://images.microbadger.com/badges/version/lonly/docker-alpine-java:oraclejdk-8u152.svg)](https://microbadger.com/images/lonly/docker-alpine-java:oraclejdk-8u152) [![](https://images.microbadger.com/badges/image/lonly/docker-alpine-java:oraclejdk-8u152.svg)](https://microbadger.com/images/lonly/docker-alpine-java:oraclejdk-8u152) __oraclejdk-8u152__
+
+- [![](https://images.microbadger.com/badges/version/lonly/docker-alpine-java:oraclejre-8u152.svg)](https://microbadger.com/images/lonly/docker-alpine-java:oraclejre-8u152) [![](https://images.microbadger.com/badges/image/lonly/docker-alpine-java:oraclejre-8u152.svg)](https://microbadger.com/images/lonly/docker-alpine-java:oraclejre-8u152) __oraclejre-8u152__
+
 ### Docker Alpine Python
 
 [Github](https://https://github.com/lonly197/docker-alpine-python) [Dockerhub](https://hub.docker.com/r/lonly/docker-alpine-python)
