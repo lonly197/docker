@@ -1,6 +1,6 @@
 # Docker Images
 
-> Docker images for development and production environment.
+> These Docker images for development or production environment.
 
                         ##         .
                   ## ## ##        ==
